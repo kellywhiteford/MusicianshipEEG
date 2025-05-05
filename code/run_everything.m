@@ -8,13 +8,13 @@ run_da
 
 clear all
 
-cd ../code/12)EEG_mi3
+cd ../12)EEG_mi3
 
 run_mi3
 
 clear all
 
-cd ./11)EEG_da
+cd ../11)EEG_da
 
 run_withinPilot_da
 
